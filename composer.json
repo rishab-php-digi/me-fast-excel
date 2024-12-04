@@ -1,0 +1,15 @@
+{
+    "name": "me/fast-excel",
+    "autoload": {
+        "psr-4": {
+            "Me\\FastExcel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rishab",
+            "email": "rishab@dev.com"
+        }
+    ],
+    "require": {}
+}
