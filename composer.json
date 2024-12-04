@@ -1,5 +1,5 @@
 {
-    "name": "me/fast-excel",
+    "name": "digitools/fast-excel",
     "autoload": {
         "psr-4": {
             "Me\\FastExcel\\": "src/"
