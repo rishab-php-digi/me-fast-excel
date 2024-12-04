@@ -11,5 +11,7 @@
             "email": "rishab@dev.com"
         }
     ],
-    "require": {}
+    "require": {
+        "box/spout": "^3.3"
+    }
 }
