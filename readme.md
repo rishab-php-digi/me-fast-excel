@@ -1,6 +1,6 @@
 # **me/fast-excel**
 
-A lightweight and efficient package for importing and exporting Excel files in PHP applications. Inspired by [FastExcel](https://github.com/rap2hpoutre/fast-excel), this package focuses on simplicity and performance.
+A lightweight and efficient package for importing and exporting Excel files in PHP applications. This package focuses on simplicity and performance.
 
 ---
 
